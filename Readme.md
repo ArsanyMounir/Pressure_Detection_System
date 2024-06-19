@@ -12,7 +12,7 @@ The system operates under the following conditions:
 **Yellow LED**: Activated when the pressure is between 10-20 bars.<br>
 **Red LED**: Activated when the pressure is above 20 bars.<br>
 
-## Case Study
+## System Architecture
 The following diagrams provide a detailed view of the system's design and operation:
 
 **Requirements Diagram**: Outlines the system requirements.
